@@ -1,5 +1,5 @@
 #### 介绍
-mfc写的界面软件工具
+mfc写的界面软件工具，有release程序或dll版本。
 
 #### 工具
 ###### dllInject
