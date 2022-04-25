@@ -5,5 +5,5 @@ mfc写的界面软件工具，有release程序或dll版本。
 ###### dllInject
 - dll注入器:在windows上,未受保护的exe程序可执行dll注入。
 ###### dllHook 
-- 微信版本3.3.0.115。注入微信,获取微信接收消息，通过socket发送到本地服务器。
+- 微信版本3.3.0.115。注入微信,获取微信接收消息，通过socket发送到 localhost:38083 ,写一个socket  server即可接收微信内部消息。
 
